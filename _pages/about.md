@@ -16,12 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am **Liang Ma**, a Master's student at **Huazhong University of Science and Technology**.  
-My research interests include **signal processing**, **neural network**, and **causal inference**.
+I am **Runhan Zhao**, a Master's student at **Huazhong University of Science and Technology**.  
+My research interests include **artificial intelligence**, **neural network**,**composite materials** and **safety engineering**.
 
-- **Email:** maliang0226@126.com
-- **GitHub:** https://github.com/burwaynEe  
-- **Google Scholar:** https://scholar.google.com/citations?user=0Unk5k8AAAAJ
+- **Email:** zhaorunhan303@126.com
+
 
   
 
