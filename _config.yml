@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liang Ma"
-description              : "Liang Ma is a graduate researcher at the School of Civil and Hydraulic Engineering, Huazhong University of Science and Technology. His research focuses on intelligent signal processing and data-driven methods for infrastructure safety, with particular interests in neural networks, causal inference, and their applications in water pipeline leakage detection and industrial safety analysis.  "
+title                    : "Runhan Zhao"
+description              : "Runhan Zhao is a postgraduate researcher at the School of Aerospace Engineering, Huazhong University of Science and Technology. Her research focuses on artificial intelligence, neural networks, composite materials and safety engineering.  "
 repository               : "burwaynEe/burwaynEe.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liang Ma"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Runhan Zhao"
+  avatar           : "images/profile.png"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "maliang0226@126.com"
+  email            : "zhaorunhan303@126.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
