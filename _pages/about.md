@@ -45,7 +45,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://www.sciencedirect.com/science/article/pii/S0360319925008572">[ScienceDirect]</a>
     <br><br>
 
-    - Explore how equivalence ratio governs the pressure, velocity, and stability of low-temperature premixed hydrogen–oxygen detonations through experiments and ZND modeling.
+    -Reveal how equivalence ratio regulates low-temperature hydrogen–oxygen detonation pressure, velocity, and stability through changes in energy-release and induction-zone characteristics. 
   </div>
 </div>
 
@@ -68,7 +68,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://www.sciencedirect.com/science/article/pii/S0360319925016982">[ScienceDirect]</a>
     <br><br>
 
-    - Identifies critical chemical accident causes by integrating AcciMap analysis with graph neural networks.
+    - Elucidate the coupled effects of equivalence ratio, hydrogen blending, and low temperature on methane–hydrogen detonation dynamics and stability, providing a mechanistic basis for low-temperature fuel utilization.
   </div>
 </div>
 
@@ -89,7 +89,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://doi.org/10.1016/j.fuel.2024.132002">[DOI]</a>
     <a href="https://www.sciencedirect.com/science/article/pii/S0016236124011505">[Springer]</a>
     <br><br>
-    - Develops an interpretable ML framework for quay wall shear-force prediction and safety analysis.
+    - Reveal how hydrogen content governs the propagation, stability, and cellular dynamics of kerosene cracked-gas detonations through H₂–CH₄ reaction competition.
   </div>
 </div>
 
@@ -159,7 +159,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://www.sciencedirect.com/science/article/pii/S0144861726008222">[ScienceDirect]</a>
     <br><br>
 
-    - Proposes IRIME-PIDM to reconstruct physically consistent 3D indoor gaseous pollutant fields from sparse sensor data.
+    - ransform rice straw into high-performance biodegradable packaging films by synergistically redistributing lignin, aligning microfibrils, and densifying native lignocellulose.
   </div>
 </div>
 # 💬 Patents
