@@ -38,7 +38,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279"><b>Influence of equivalence ratio on detonation characteristics of low-temperature premixed hydrogen–oxygen mixtures</b></a>
     <br><br>
 
-    Huanjuan Zhao&#42;(Supervisor), <b>Runhan Zhao</b>, Jing Liu, Yingxing Bao<br>
+    Huanjuan Zhao(Supervisor), <b>Runhan Zhao&#42;</b>, Jing Liu, Yingxing Bao<br>
     <i>International Journal of Hydrogen Energy</i>, 2025<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279">[DOI]</a>
@@ -52,20 +52,20 @@ My research interests include **artificial intelligence**, **neural network**,**
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">RESS 2025 · JCR Q1</div>
-      <img src="images/paper2.jpg" alt="teaser" width="100%">
+      <div class="badge">IJHE 2025 · JCR Q1</div>
+      <img src="images/IJHE2.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
   <div class="paper-box-text">
-    <a href="https://doi.org/10.1016/j.ress.2025.111425"><b>AcciMap causal analysis of Chinese chemical industry accidents unraveled by graph neural networks</b></a>
+    <a href="https://doi.org/10.1016/j.ijhydene.2025.04.073"><b>Low-temperature detonation characteristics of methane-hydrogen mixtures with different components</b></a>
     <br><br>
 
-    <b>Liang Ma</b>, Runhan Zhao&#42;<br>
-    <i>Reliability Engineering &amp; System Safety</i>, 2025<br>
+    Huanjuan Zhao(Supervisor), <b>Runhan Zhao&#42;</b>, Jing Liu, Yingxing Bao, Yuxuan Lu<br>
+    <i>International Journal of Hydrogen Energy</i>, 2025<br>
     &#42; Corresponding author<br>
-    <a href="https://doi.org/10.1016/j.ress.2025.111425">[DOI]</a>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0951832025006258">[ScienceDirect]</a>
+    <a href="https://doi.org/10.1016/j.ijhydene.2025.04.073">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0360319925016982">[ScienceDirect]</a>
     <br><br>
 
     - Identifies critical chemical accident causes by integrating AcciMap analysis with graph neural networks.
@@ -75,19 +75,19 @@ My research interests include **artificial intelligence**, **neural network**,**
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">JOEME 2025 · JCR Q2</div>
-      <img src="images/paper3.jpg" alt="teaser" width="100%">
+      <div class="badge">FUEL 2024 · JCR Q1</div>
+      <img src="images/FUEL1.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
   <div class="paper-box-text">
-    <a href="https://doi.org/10.1007/s40722-025-00462-1"><b>Safety analysis of quay wall structures based on explainable machine learning</b></a>
+    <a href="https://doi.org/10.1016/j.fuel.2024.132002"><b>Influence of elementary reactions on the propagation mechanism of multicomponent gas-phase detonation</b></a>
     <br><br>
-    Zhaosheng Feng, Jun Chen, Wen Liu, Yang Chen, <b>Liang Ma&#42;</b><br>
-    <i>Journal of Ocean Engineering and Marine Energy</i>, 2025<br>
+    Huanjuan Zhao&#42;(Supervisor), <b>Runhan Zhao</b>, Jing Liu, Yingxing Bao, Yuxuan Lu<br>
+    <i>Fuel</i>, 2024<br>
     &#42; Corresponding author<br>
-    <a href="https://doi.org/10.1007/s40722-025-00462-1">[DOI]</a>
-    <a href="https://link.springer.com/article/10.1007/s40722-025-00462-1">[Springer]</a>
+    <a href="https://doi.org/10.1016/j.fuel.2024.132002">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0016236124011505">[Springer]</a>
     <br><br>
     - Develops an interpretable ML framework for quay wall shear-force prediction and safety analysis.
   </div>
@@ -97,23 +97,23 @@ My research interests include **artificial intelligence**, **neural network**,**
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">SCS 2026 · JCR Q1</div>
-      <img src="images/paper4.jpg" alt="teaser" width="100%">
+      <div class="badge">RESS 2025 · JCR Q1</div>
+      <img src="images/paper2.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
   <div class="paper-box-text">
-    <a href="https://doi.org/10.1016/j.scs.2026.107141"><b>Reconstruction of Pedestrian-Level Pollutant Distributions in Urban Street Canyon Using Physics-Informed Neural Network</b></a>
+    <a href="https://doi.org/10.1016/j.ress.2025.111425"><b>AcciMap causal analysis of Chinese chemical industry accidents unraveled by graph neural networks</b></a>
     <br><br>
 
-    <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Wenli Liu&#42;<br>
-    <i>Sustainable Cities and Society</i>, 2026<br>
+    Liang Ma, <b>Runhan Zhao</b>&#42;<br>
+    <i>Reliability Engineering &amp; System Safety</i>, 2025<br>
     &#42; Corresponding author<br>
-    <a href="https://doi.org/10.1016/j.scs.2026.107141">[DOI]</a>
-    <a href="https://www.sciencedirect.com/science/article/pii/S2210670726000284#tbl0004">[ScienceDirect]</a>
+    <a href="https://doi.org/10.1016/j.ress.2025.111425">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0951832025006258">[ScienceDirect]</a>
     <br><br>
 
-    - Proposes a PINN-RAS framework to reconstruct fine-scale PM2.5 distributions in street canyons using sparse data robustly.
+    - Identifies critical chemical accident causes by integrating AcciMap analysis with graph neural networks.
   </div>
 </div>
 
@@ -129,7 +129,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://doi.org/10.1016/j.ress.2026.112492"><b>An accident causation analysis framework by integrating graph attention networks with Decision-Making Trial and Evaluation Laboratory based on AcciMap: A case of chemical accidents in China</b></a>
     <br><br>
 
-    Runhan Zhao, <b>Liang Ma&#42;</b><br>
+    <b>Runhan Zhao</b>, Liang Ma&#42;<br>
     <i>Reliability Engineering &amp; System Safety</i>, 2026<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.ress.2026.112492">[DOI]</a>
@@ -143,20 +143,20 @@ My research interests include **artificial intelligence**, **neural network**,**
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">BS 2026 · JCR Q1</div>
-      <img src="images/paper6.jpg" alt="teaser" width="100%">
+      <div class="badge">CP 2026 · JCR Q1</div>
+      <img src="images/CP1.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
   <div class="paper-box-text">
-    <a href="https://doi.org/10.1007/s12273-026-1442-z"><b>Physics-informed diffusion models for 3D reconstruction of indoor gaseous pollutant fields from sparse measurements</b></a>
+    <a href="https://doi.org/10.1016/j.carbpol.2026.125705"><b>Supramolecular reconstruction of rice straw lignocellulosic microfibrils into high-performance food packaging films</b></a>
     <br><br>
 
-    <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Wenli Liu&#42;<br>
-    <i>Building Simulation</i>, 2026<br>
-    &#42; Corresponding author<br>
-    <a href="https://doi.org/10.1007/s12273-026-1442-z">[DOI]</a>
-    <a href="https://link.springer.com/article/10.1007/s12273-026-1442-z">[Springer]</a>
+    Haibo Huang&#8224;, Zhen Zhang&#8224;, <b>Runhan Zhao&#8224;</b>, Yan Qing&#42; et al.<br>
+    <i>Carbohydrate Polymers</i>, 2026<br>
+    &#8224; Equal contribution; &#42; Corresponding author<br>
+    <a href="https://doi.org/10.1016/j.carbpol.2026.125705">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0144861726008222">[ScienceDirect]</a>
     <br><br>
 
     - Proposes IRIME-PIDM to reconstruct physically consistent 3D indoor gaseous pollutant fields from sparse sensor data.
