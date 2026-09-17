@@ -159,7 +159,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://www.sciencedirect.com/science/article/pii/S0144861726008222">[ScienceDirect]</a>
     <br><br>
 
-    - ransform rice straw into high-performance biodegradable packaging films by synergistically redistributing lignin, aligning microfibrils, and densifying native lignocellulose.
+    - Transform rice straw into high-performance biodegradable packaging films by synergistically redistributing lignin, aligning microfibrils, and densifying native lignocellulose.
   </div>
 </div>
 # 💬 Patents
