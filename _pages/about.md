@@ -29,23 +29,23 @@ My research interests include **artificial intelligence**, **neural network**,**
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">TUST 2025 · JCR Q1</div>
-      <img src="images/paper1.jpg" alt="teaser" width="100%">
+      <div class="badge">IJHE 2025 · JCR Q1</div>
+      <img src="images/IJHE1.jpg" alt="teaser" width="100%">
     </div>
   </div>
 
   <div class="paper-box-text">
-    <a href="https://doi.org/10.1016/j.tust.2025.106670"><b>Signal processing techniques for detecting leakage in urban water supply pipelines: Denoising and feature enhancement</b></a>
+    <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279"><b>Influence of equivalence ratio on detonation characteristics of low-temperature premixed hydrogen–oxygen mixtures</b></a>
     <br><br>
 
-    <b>Liang Ma</b>, Tengfei An, Runhan Zhao, Tianxiang Liu, Wenli Liu&#42;<br>
-    <i>Tunnel Underground Space Technology</i>, 2025<br>
+    Huanjuan Zhao&#42 (Supervisor), <b>Runhan Zhao</b>, Jing Liu, Yingxing Bao;<br>
+    <i>International Journal of Hydrogen Energy</i>, 2025<br>
     &#42; Corresponding author<br>
-    <a href="https://doi.org/10.1016/j.tust.2025.106670">[DOI]</a>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0886779825003086">[ScienceDirect]</a>
+    <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279">[DOI]</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0360319925008572">[ScienceDirect]</a>
     <br><br>
 
-    - Proposes a signal-processing framework for leakage detection via denoising and feature enhancement.
+    - Explore how equivalence ratio governs the pressure, velocity, and stability of low-temperature premixed hydrogen–oxygen detonations through experiments and ZND modeling.
   </div>
 </div>
 
