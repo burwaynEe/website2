@@ -38,7 +38,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279"><b>Influence of equivalence ratio on detonation characteristics of low-temperature premixed hydrogen–oxygen mixtures</b></a>
     <br><br>
 
-    Huanjuan Zhao(Supervisor), <b>Runhan Zhao&#42;</b>, Jing Liu, Yingxing Bao<br>
+    Huanjuan Zhao (Supervisor), <b>Runhan Zhao&#42;</b>, Jing Liu, Yingxing Bao<br>
     <i>International Journal of Hydrogen Energy</i>, 2025<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279">[DOI]</a>
@@ -61,7 +61,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://doi.org/10.1016/j.ijhydene.2025.04.073"><b>Low-temperature detonation characteristics of methane-hydrogen mixtures with different components</b></a>
     <br><br>
 
-    Huanjuan Zhao(Supervisor), <b>Runhan Zhao&#42;</b>, Jing Liu, Yingxing Bao, Yuxuan Lu<br>
+    Huanjuan Zhao (Supervisor), <b>Runhan Zhao&#42;</b>, Jing Liu, Yingxing Bao, Yuxuan Lu<br>
     <i>International Journal of Hydrogen Energy</i>, 2025<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.ijhydene.2025.04.073">[DOI]</a>
