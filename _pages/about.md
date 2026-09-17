@@ -38,7 +38,7 @@ My research interests include **artificial intelligence**, **neural network**,**
     <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279"><b>Influence of equivalence ratio on detonation characteristics of low-temperature premixed hydrogen–oxygen mixtures</b></a>
     <br><br>
 
-    Huanjuan Zhao&#42 (Supervisor), <b>Runhan Zhao</b>, Jing Liu, Yingxing Bao;<br>
+    Huanjuan Zhao&#42;(Supervisor), <b>Runhan Zhao</b>, Jing Liu, Yingxing Bao<br>
     <i>International Journal of Hydrogen Energy</i>, 2025<br>
     &#42; Corresponding author<br>
     <a href="https://doi.org/10.1016/j.ijhydene.2025.02.279">[DOI]</a>
